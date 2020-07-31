@@ -258,3 +258,16 @@ input:checked + .slider::before {
   font-size: 30px;
   margin-right: 5px;
 }
+
+.github-accnt:hover{
+  text-decoration: none;
+  color: transparent;
+}
+.linkedin-accnt:hover{
+  text-decoration: none;
+  color: transparent;
+}
+.instagram-accnt:hover{
+  text-decoration: none;
+  color: transparent;
+}
